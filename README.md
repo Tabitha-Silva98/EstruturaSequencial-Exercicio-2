@@ -1,4 +1,4 @@
-## Getting Started
+## Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
